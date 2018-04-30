@@ -1,5 +1,5 @@
 <?php
-namespace drupol\pcas;
+namespace OpenEuropa\pcas;
 
 use drupol\pcas\Cas\Protocol\CasProtocolInterface;
 use drupol\pcas\Security\Core\User\PCasUser;

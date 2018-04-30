@@ -1,5 +1,5 @@
 <?php
-namespace drupol\pcas\Security;
+namespace OpenEuropa\pcas\Security;
 
 use drupol\pcas\PCas;
 use Symfony\Component\HttpFoundation\JsonResponse;
